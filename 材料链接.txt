@@ -1,0 +1,40 @@
+1.陀螺仪芯片：购买mpu6050c
+【淘宝】假一赔四 https://e.tb.cn/h.iReFEisWZ6qAHcM?tk=Ro6d511rZFk CZ005 「MPU-6050 6050A 6052C 6000 3050 6500 9250 6881 六轴陀螺仪芯片」
+点击链接直接打开 或者 淘宝搜索直接打开
+
+2.ws2812灯珠1010封装，购买300个：
+【淘宝】退货运费险 https://e.tb.cn/h.iRujffsnjcyVdng?tk=ta4a511rV72 HU071 「雾状1010RGB幻彩WS2812B超高亮内置IC可编程5ＶLED灯珠跑马灯包邮」
+点击链接直接打开 或者 淘宝搜索直接打开
+
+3.充电管理芯片tp5400：
+【淘宝】7天无理由退货 https://e.tb.cn/h.iiojYw9NVyPE0F0?tk=Ij74511r3cT HU591 「全新原装 TP7660H TP4333 TP5400 TP5410 贴片SOP8」
+点击链接直接打开 或者 淘宝搜索直接打开
+
+4.主控芯片esp32s3_fh4r2:
+【淘宝】7天无理由退货 https://e.tb.cn/h.i8xBTAuEu2Unugv?tk=sbP1511sRoJ CZ007 「全新原装 ESP32-S3FH4R2 QFN-56 Wi-Fi+蓝牙5.0 4MB 32位双核MCU」
+点击链接直接打开 或者 淘宝搜索直接打开
+
+5.贴片天线，购买5220封装：
+【淘宝】7天无理由退货 https://e.tb.cn/h.iReC47rFyuANIa6?tk=8ePl511HvCV CZ009 「2.4G贴片陶瓷天线RFANT5220110A0T 5220体积 WIFI蓝牙天线滤波器」
+点击链接直接打开 或者 淘宝搜索直接打开
+
+6.rt9013：
+https://mobile.yangkeduo.com/goods1.html?ps=Yhazoxg0li
+
+7.ttp223：
+https://mobile.yangkeduo.com/goods1.html?ps=AszRh70mir
+
+8.40mhz晶振：
+https://mobile.yangkeduo.com/goods.html?ps=prQ6KoSCAC
+
+9.铜箔贴纸，购买10mm左右，双面导电：
+https://mobile.yangkeduo.com/goods.html?ps=gc7Sf1Qi5q
+
+10.透明包装管，购买100mm长，19mm外径，18mm内径：
+https://mobile.yangkeduo.com/goods.html?ps=HrBJwTtJae
+
+11.双头镀锡导线：
+https://mobile.yangkeduo.com/goods2.html?ps=1CcLKtxWdW
+
+12.电池，购买601235，300毫安：
+https://mobile.yangkeduo.com/goods.html?ps=cmO30JSrnA
